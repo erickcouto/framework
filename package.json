@@ -6,18 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react",
-    "react-native",
-    "library"
-  ],
   "author": "Erick Couto",
-  "license": "MIT",
   "peerDependencies": {
     "react": "^16.0.0",
     "react-native": "^0.74.1"
   },
   "devDependencies": {
-    // Add any development dependencies here
   }
 }
