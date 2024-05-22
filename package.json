@@ -1,6 +1,6 @@
 {
-  "name": "f2SmartUi",
-  "version": "1.0.0",
+  "name": "f2SmartUI",
+  "version": "0.0.1",
   "description": "Fu2re Smart UI Library",
   "main": "index.js",
   "scripts": {
