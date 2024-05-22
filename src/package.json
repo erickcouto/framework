@@ -1,0 +1,23 @@
+{
+  "name": "f2SmartUi",
+  "version": "1.0.0",
+  "description": "Fu2re Smart UI Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "library"
+  ],
+  "author": "Erick Couto",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-native": "^0.74.1"
+  },
+  "devDependencies": {
+    // Add any development dependencies here
+  }
+}
